@@ -1,3 +1,4 @@
+<img src="assets/portfolio-preview.jpg" alt="Laurand Osmeni Sci-Fi Portfolio" width="100%">
 # Laurand Osmeni — Engineering Command Deck
 
 Laurand Osmeni’s personal software engineering portfolio is presented as an interactive science-fiction command deck. It introduces his background, technical abilities, professional experience, education, and selected software products through a fast, responsive interface.
