@@ -1,3 +1,7 @@
+https://laurand.github.io/SciFi_Portfolio/
+<img width="1792" height="1027" alt="overview" src="https://github.com/user-attachments/assets/e9c0ad2b-91a2-4716-8f19-3dc02e9b711a" />
+<img width="1785" height="1013" alt="enter" src="https://github.com/user-attachments/assets/2aef43ec-9363-4149-90b2-787f500455f3" />
+
 <img src="assets/portfolio-preview.jpg" alt="Laurand Osmeni Sci-Fi Portfolio" width="100%">
 # Laurand Osmeni — Engineering Command Deck
 
